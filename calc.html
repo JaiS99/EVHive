@@ -44,7 +44,7 @@
 
 <!--Calculations-->
 <div class="colortextcalc ">
-  <form onsubmit="return false" oninput="   totalamount.value = capacity.value*(trgtchrg.value-currchrg.value)/0.9*price.value;" style="padding-left:50px;">
+  <form onsubmit="return false" oninput="   totalamount.value = capacity.value*((trgtchrg.value-currchrg.value)/100)/0.9*price.value;" style="padding-left:50px;">
     <br> <br/> Current Charge %<br> <br/><input class="rounded" name="currchrg" type="number" />
     <br> <br/> Target Charge % <br> <br/><input class="rounded"name="trgtchrg" type="number" />
     <br> <br/> Electricity Price/KW In ₹<br> <br/> <input class="rounded" name="price" type="number" />
