@@ -8,7 +8,7 @@
 .range{
   background-color:#38373a;
   color:rgb(63, 63, 63);
-  background-image: url('/OIP.jfif'); 
+  background-image: url('/Assets/OIP.jfif'); 
   background-position: center center
   background-repeat no-repeat;
   background-attachment: fixed;
@@ -17,7 +17,7 @@
 .calc{
   background-color:#38373a;
   color:rgb(63, 63, 63);
-  background-image: url('/Windows11_green_wallpaper_3840x2160_4k.jpg'); 
+  background-image: url('/Assets/Windows11_green_wallpaper_3840x2160_4k.jpg'); 
   background-position: center center
   background-repeat no-repeat;
   background-attachment: fixed;
@@ -26,7 +26,7 @@
 .time{
   background-color:#38373a;
   color:rgb(63, 63, 63);
-  background-image: url('/R.jfif'); 
+  background-image: url('/Assets/R.jfif'); 
   background-position: center center
   background-repeat no-repeat;
   background-attachment: fixed;
@@ -72,13 +72,13 @@ input.rounded:focus {
 
 /*Carousel*/
 #carousel .carousel-item.boat{
-  background-image:url("/lucid_air_prototype_2-HD.jpg");
+  background-image:url("./Assets/lucid_air_prototype_2-HD.jpg");
 }
 #carousel .carousel-item.sea{
-  background-image:url("/lucid-air-exterior-03.jpg");
+  background-image:url("./Assets/lucid-air-exterior-08.jpg");
 }
 #carousel .carousel-item.river{
-  background-image:url("/lucid-air-exterior-08.jpg");
+  background-image:url("./Assets/lucid-air-exterior-03.jpg");
 }
 #carousel .carousel-item{
   height:100vh;
