@@ -6,3 +6,4 @@ run using xampp and localy host or just run by opeing the html file
 this project was inspired by microsoft acrylic design and the lack of online calculators for EV charging in India based out of EV calculators online for US.
 This project was finshed under 5 hrs and has multiple issues. functionality is not affeceted. 
 future inputs are required and the interface needs to be cleaned up.
+This project is capable of running offline, and has all the reqired assets stored locally in Assets.
