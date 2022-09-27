@@ -7,3 +7,4 @@ this project was inspired by microsoft acrylic design and the lack of online cal
 This project was finshed under 5 hrs and has multiple issues. functionality is not affeceted. 
 future inputs are required and the interface needs to be cleaned up.
 This project is capable of running offline, and has all the reqired assets stored locally in Assets.
+![Homepage ](https://user-images.githubusercontent.com/48391316/192468611-0e26d576-aa12-4515-a6ea-d1e076638768.jpg)
